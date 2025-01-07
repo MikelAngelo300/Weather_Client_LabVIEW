@@ -26,7 +26,7 @@ This project is a LabVIEW Virtual Instrument (VI) that retrieves real-time weath
    - Obtain an API key from OpenWeatherMap.
    - Integrate the API key into the VI (refer to the code or block diagram for the appropriate location).
 2. Run the VI:
-   - Open the `stacja_pogodowa.vi` file in LabVIEW.
+   - Open the `Weather_Client.vi` file in LabVIEW.
    - Enter the city name and select the desired unit of temperature.
    - Click the start button to fetch and display weather data.
 3. View Data:
